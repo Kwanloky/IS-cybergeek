@@ -1,0 +1,3 @@
+- Today I've been analyzing the code mostly through R, so I haven't done much groundbreaking code work or asked for much help from GPT.
+- I realize that to reach the long term goal of the cybergeek project - to output more guidelines and insights for IS field scholars to use big models - I have to plan their usefulness for these possible days of not engaging in much technical activity.
+- Tomorrow night I'll be back in Hong Kong, and I think I'll plan the cybergeek project in detail and update README.md.
