@@ -1,0 +1,2 @@
+- I used GPT during the day today to help me with the generation of new variables for one of my projects, they were relatively simple functions so GPT did a good job. I think GPT's do free us from repetitive tasks.
+- This evening on the highway, I sorted out my code ideas and things to do.
