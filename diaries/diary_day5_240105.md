@@ -1,0 +1,3 @@
+- I've been utilizing LLMs for a lot of coding today, and he has been very useful indeed. I have experienced a misperception in the past, blaming my own carelessness on ChatGPT's lack of competence. So one of my rough thoughts is that using the GPT may affect personal knowledge acquisition through two paths. The first path is that GPT triggers more errors (misleading effect), and the second path is to blame carelessness on ChatGPT's lack of competence and overestimate the difficulty of the task (overestimation effect).
+- Prompt engineering will be my next focus, and I hope to accumulate a better handbook for prompt engineering in IS.
+- I don't think I've done a good enough job of autoethnography so far, I think I need to read more sociological literature.
