@@ -1,0 +1,2 @@
+- Today the GPT helped me to complete an important function of one of the more important R packages I've been meaning to do but haven't had the time.
+- As I was filling out the scale today, I suddenly had the feeling in my head "if only there was a GPT", which means that filling out a scale specific to one technology is often influenced by other technology. So I think a sophisticated measurement should add a new element - limitations. For example, when measuring technological self-efficacy we should remind them to focus only on themselves to minimize the impact of the GPT.
