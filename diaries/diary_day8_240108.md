@@ -1,0 +1,2 @@
+- Today I got an initial introduction to prompt learning. I am planning to deploy a low precision LLM and design suitable prompts for text matching tasks.
+- Today I realized that using GPT to go about the search is the way to go, especially if he can output suitable references. This means that there is one more application scenario for the GPT tool besides typing code.
