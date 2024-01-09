@@ -1,0 +1,1 @@
+- Today I used GPT to help me with my mapping. I realized that PROMPT is indeed very important and if you rush and ask random questions, you do end up with bad results. It's all about being in a hurry. So one idea is that time pressure can lead to rushing questions, affecting the quality of GPT answers, wasting more time and leading to more stress.
